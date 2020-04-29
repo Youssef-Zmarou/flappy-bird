@@ -18,9 +18,10 @@ My goal here is to build it from scratch.
 | -------------           |:-------------:          |
 | **+ Playable game**     |:hammer_and_wrench:      |
 | **+ Good graphics**     |:black_square_button:    |
+| **+ Visuals on README** |:black_square_button:    | 
 | **+ Refactor code**     |:black_square_button:    |
-| **+ Demo         **     |:black_square_button:    | 
 | **+ AI playing it**     |:black_square_button:    | 
+
 
 ## Contributing
 
