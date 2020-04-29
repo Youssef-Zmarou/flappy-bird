@@ -14,13 +14,13 @@ My goal here is to build it from scratch.
 
 ## Roadmap
 
-| Milestones         | Statue              |
-| -------------      |:-------------:      |
-| playable game      |:hammer_and_wrench:  |
-| + Good graphics    |:black_square_button:|
-| + Refactor code    |:black_square_button:|
-| + Demo             |:black_square_button:| 
-| + AI playing it    |:black_square_button:| 
+| **Milestones**          | **Status**              |
+| -------------           |:-------------:          |
+| **+ Playable game**     |:hammer_and_wrench:      |
+| **+ Good graphics**     |:black_square_button:    |
+| **+ Refactor code**     |:black_square_button:    |
+| **+ Demo         **     |:black_square_button:    | 
+| **+ AI playing it**     |:black_square_button:    | 
 
 ## Contributing
 
