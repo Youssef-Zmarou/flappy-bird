@@ -1,9 +1,13 @@
+
 # flappy-bird
+
 building the famous game, Flappy Bird, from scratch.
 
-## Description 
+## Description
+
 Flappy bird is a side-scroller game where the player controls a bird, attempting to fly between columns of green pipes without hitting them.
 My goal here is to build it from scratch.
+
 ## Badges
 
 ## Visuals
@@ -31,4 +35,5 @@ My goal here is to build it from scratch.
 
 
 ## Project status
-beginning 
+
+Working on it  
